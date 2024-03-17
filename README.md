@@ -1,6 +1,5 @@
 # ft_str_is_lowercase
 
-# FT_STR_IS_LOWERCASE Function Repository
 
 This repository contains the `ft_str_is_lowercase` function, a simple utility for verifying that a string is composed solely of lowercase letters. It's an essential tool for string validation, ensuring that input or data adheres to expected formatting requirements, especially when processing text-sensitive information.
 
